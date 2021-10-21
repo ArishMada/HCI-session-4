@@ -5,6 +5,6 @@ Team: the GOATS
 The html file of our website 
 # Exercise.css
 The css file of our website
-#sketch 
+# sketch 
 The sketch of the website made in canvas
 
